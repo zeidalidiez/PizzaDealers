@@ -55,8 +55,8 @@ Open whatever port Vite picks (usually `http://localhost:5173`).
 
 Pizza Dealers was built in about 30 minutes using a workflow I call **non-vibe coding** — a lightly structured handoff between an AI cofounder, a coding agent, and GitHub Pages.
 
-- ▶️ **Watch the build:** [YouTube video](LINK_TO_YOUTUBE_VIDEO)
-- 📖 **Read the writeup:** [Non-vibe coding article](LINK_TO_ARTICLE)
+- ▶️ **Watch the build:** [YouTube video](https://youtu.be/QbEphYXgzy0)
+- 📖 **Read the writeup:** [Non-vibe coding article](https://zeiddiez.substack.com/p/non-vibe-coding-how-to-build-a-real)
 - 🛠️ **Tools used:** [DeepSeek](https://chat.deepseek.com/) (design doc) · [OpenCode](https://opencode.ai/) + Kimi K2.6 (coding agent) · GitHub Desktop · GitHub Pages
 
 ## License
